@@ -1,0 +1,23 @@
+{
+  "name": "space_tourism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuba77/space_tourism.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuba77/space_tourism/issues"
+  },
+  "homepage": "https://kuba77.github.io/space_tourism/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
